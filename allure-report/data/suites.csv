@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","42708","guestCheckout","MySuite","2025-10-04","passed","2025-10-04","GuestCheckoutTest","ScenarioTests","GuestCheckoutTest","guestCheckout"
+"","5915","invalidInputSearch","MySuite","2025-10-04","passed","2025-10-04","InvalidScenarioTest","ScenarioTests","InvalidScenarioTest","invalidInputSearch"
+"","24904","browseFilterProducts","MySuite","2025-10-04","passed","2025-10-04","FilterProductTest","ScenarioTests","FilterProductTest","browseFilterProducts"
+"","46693","addMultipleProducts","MySuite","2025-10-04","passed","2025-10-04","AddingMultipleProductsTest","ScenarioTests","AddingMultipleProductsTest","addMultipleProducts"
