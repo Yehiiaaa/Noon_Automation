@@ -9,7 +9,6 @@ import org.testng.Assert;
 
 import java.time.Duration;
 
-
 public class FilterPage {
     private final WebDriver driver;
     private final WebDriverWait wait;

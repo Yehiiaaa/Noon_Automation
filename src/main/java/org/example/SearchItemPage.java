@@ -1,7 +1,6 @@
 package org.example;
 
 import locators.FilterPageLocators;
-import locators.ProductPageLocators;
 import locators.SearchItemLocators;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -127,5 +126,4 @@ public class SearchItemPage {
 
         }
     }
-
 }

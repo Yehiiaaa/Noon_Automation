@@ -15,8 +15,4 @@ public class SearchItemLocators {
             By.cssSelector("a[data-qa='btn_cartLink-Header-Desktop']");
     public static final By productBox =
             By.cssSelector(".productBox");
-
-
-
-
 }

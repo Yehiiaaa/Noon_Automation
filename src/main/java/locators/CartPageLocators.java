@@ -11,5 +11,4 @@ public class CartPageLocators {
 
     public static final By checkoutMessage =
             By.xpath("//div[text()=\"Hala! Let's get started\"]");
-
 }

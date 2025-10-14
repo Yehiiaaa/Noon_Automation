@@ -2,7 +2,6 @@ package locators;
 
 import org.openqa.selenium.By;
 
-
 public class ProductPageLocators {
     public static final By changeLanguageButton =
             By.cssSelector("button[data-qa='lnk_languageSelector_header-desktop']");
@@ -18,11 +17,8 @@ public class ProductPageLocators {
     public static final By searchBar =
             By.className("DesktopInput_searchInput__R44H1");
 
-    public static final By productBox
-            = By.cssSelector("div.productContainerSelector");
 
     public static final By noResultsMessage =
             By.xpath("//h3[contains(text(),\"We couldn't find\")]");
-
 }
 

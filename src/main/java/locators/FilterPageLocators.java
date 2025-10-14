@@ -15,10 +15,4 @@ public class FilterPageLocators {
             By.className("DesktopSort_dropdown__nFV3b");
     public static final By sortTypeOptions =
             By.className("DesktopSortDropdown_link__IjuW9");
-
-
-
-
-
-
 }

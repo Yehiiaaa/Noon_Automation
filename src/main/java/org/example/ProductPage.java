@@ -31,7 +31,6 @@ public class ProductPage {
         ));
     }
 
-
     public void navigateCategory(String categoryName) {
                 wait.until(ExpectedConditions.presenceOfElementLocated
                         (ProductPageLocators.getCategoryLocator(categoryName)));

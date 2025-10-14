@@ -19,7 +19,6 @@ import java.util.List;
 public class BaseTest {
     WebDriver driver;
     int i =1;
-    CSVFileManager csvData;
     ExcelFileManager excelData;
     ConfigLoader configLoader;
     ProductPage productPage;
