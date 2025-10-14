@@ -86,7 +86,27 @@ Noon_Automation/
     - Verify “No results found” message is displayed
 
 ---
+## How to Run Tests
 
+### 1. Clone the repository
+```
+git clone https://github.com/Yehiiaaa/Noon_Automation
+cd Noon_Automation
+```
+
+### 2. Run tests with Maven
+```
+mvn clean test
+```
+
+### 3. Generate Allure Report
+```
+allure generate --clean  
+allure serve -h localhost
+```
+👉 This will automatically open the report in your browser.
+
+---
 ## 📸 Screenshots
 Failed tests will automatically capture screenshots and store them in:
 ```
